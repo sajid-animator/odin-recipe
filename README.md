@@ -1,2 +1,4 @@
 # odin-recipe
-a portfolio web 
+a portfolio website building first time
+
+
